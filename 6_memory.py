@@ -1,3 +1,8 @@
+# 6_memory.py
+# This example demonstrates how to use LangGraph with a memory saver
+# to create a chatbot that can fetch stock prices.
+# It uses LangChain's chat models and tools to interact with the user.  
+    
 from langchain.chat_models import init_chat_model
 from typing import Annotated
 from typing_extensions import TypedDict

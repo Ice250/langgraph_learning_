@@ -1,8 +1,6 @@
-from typing import Annotated
-from dotenv import load_dotenv
-load_dotenv()
+# 3_Chatbot.py
+# This example demonstrates how to create a simple chatbot using LangGraph. 
 
-from typing_extensions import TypedDict
 from langgraph.graph import StateGraph, START, END
 from langgraph.graph.message import add_messages
 from langchain.chat_models import init_chat_model

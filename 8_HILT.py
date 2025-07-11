@@ -1,3 +1,8 @@
+# 8_HILT.py
+# This example demonstrates how to use LangGraph with HILT (Human-in-the-loop)
+# to create a chatbot that can fetch stock prices and allow users to buy stocks.
+# It uses LangChain's chat models and tools to interact with the user.
+
 from dotenv import load_dotenv
 load_dotenv()
 
