@@ -51,5 +51,5 @@ Enables deep observability: trace agent behavior, track errors, and debug decisi
 ## 📚 Resources
 
 - [LangChain Documentation](https://docs.langchain.com/)
-- [LangGraph Overview](https://docs.langgraph.io/)
+- [LangGraph Overview](https://langchain-ai.github.io/langgraph/)
 - [LangSmith Guides](https://docs.smith.langchain.com/)
